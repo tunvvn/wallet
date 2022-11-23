@@ -1,0 +1,25 @@
+{
+    "name": "tunv/wallet",
+    "description": "trustedacc",
+    "type": "composer-plugin",
+    "require": {
+        "illuminate/support": "^5.6",
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tunv\\Wallet\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "tunv",
+            "email": "bokinhvan.0001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
