@@ -3,7 +3,7 @@
     "description": "trustedacc",
     "type": "composer-plugin",
     "require": {
-        "illuminate/support": "^5.6",
+        "illuminate/support": "^8.0",
         "php": "^8.0"
     },
     "require-dev": {
